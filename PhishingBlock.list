@@ -311,6 +311,18 @@ DOMAIN-SUFFIX,pcpc.me
 DOMAIN-SUFFIX,howtoip.com
 DOMAIN-SUFFIX,gaoqing365.com
 DOMAIN-SUFFIX,dqsouq.com
+DOMAIN-SUFFIX,gundvd.com
+DOMAIN-SUFFIX,mimsidesign.com
+DOMAIN-SUFFIX,0028i.com
+DOMAIN-SUFFIX,gumeng064.com
+DOMAIN-SUFFIX,zhipanyou.com
+DOMAIN-SUFFIX,bugsdb.com
+DOMAIN-SUFFIX,bazhishi.com
+DOMAIN-SUFFIX,2ipc.com
+DOMAIN-SUFFIX,0557pet.cn
+DOMAIN-SUFFIX,kooppagina.com
+DOMAIN-SUFFIX,bqpu.net
+DOMAIN-SUFFIX,ispsd2015.com
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -363,7 +375,7 @@ DOMAIN-SUFFIX,vphclcb.site
 DOMAIN-SUFFIX,picacgo.com
 DOMAIN-SUFFIX,lsbzagd.site
 
-#垃圾网站/网赚诈骗/彩票博彩
+#垃圾网站（SEO）/网赚诈骗/彩票博彩
 DOMAIN-SUFFIX,yitianxinda.cn
 DOMAIN-SUFFIX,yitianxinda.com
 DOMAIN-SUFFIX,020dzbwgs.com
@@ -788,9 +800,50 @@ DOMAIN-SUFFIX,leipdc657.com
 DOMAIN-SUFFIX,678cn.com
 DOMAIN-SUFFIX,naofkr.com
 DOMAIN-SUFFIX,winwin7.com
+DOMAIN-SUFFIX,winwin7.com
+DOMAIN-SUFFIX,4326.cn
+DOMAIN-SUFFIX,mz01.com
+DOMAIN-SUFFIX,hbs163.com
+DOMAIN-SUFFIX,bulb6.com
+DOMAIN-SUFFIX,chengzhenwang.cn
+DOMAIN-SUFFIX,bdgqd.com
+DOMAIN-SUFFIX,ihulu.cn
+DOMAIN-SUFFIX,lshou.com
+DOMAIN-SUFFIX,beylze.com
+DOMAIN-SUFFIX,lotterywifi.com
+DOMAIN-SUFFIX,zggt.cn.com
+DOMAIN-SUFFIX,itxxb.com
+DOMAIN-SUFFIX,shuyueliang.com
+DOMAIN-SUFFIX,06033.com.cn
+DOMAIN-SUFFIX,cntaolin.com
+DOMAIN-SUFFIX,afu123.com
+DOMAIN-SUFFIX,jy135.com
+DOMAIN-SUFFIX,lovean.com
+DOMAIN-SUFFIX,nqrw.uk.com
+DOMAIN-SUFFIX,zhan7.com
+DOMAIN-SUFFIX,readercache.com
+DOMAIN-SUFFIX,3gmfw.cn
+DOMAIN-SUFFIX,xp.cn
+DOMAIN-SUFFIX,stacknoob.com
+DOMAIN-SUFFIX,111com.net
+DOMAIN-SUFFIX,konopizzapadova.it
+DOMAIN-SUFFIX,junte126.com
+DOMAIN-SUFFIX,www66444.com.cn
+DOMAIN-SUFFIX,xuexiaodaquan.com
+DOMAIN-SUFFIX,ksxdj.cn
+DOMAIN-SUFFIX,295a.com
+DOMAIN-SUFFIX,hhzjkx.cn
+DOMAIN-SUFFIX,urnca.com
+DOMAIN-SUFFIX,kvkhrm.cn
+DOMAIN-SUFFIX,lpkg64.cn
+DOMAIN-SUFFIX,8885991.com
+DOMAIN-SUFFIX,qianfangzy.com
+DOMAIN-SUFFIX,kukex.cn
+DOMAIN-SUFFIX,nh77.cn
+DOMAIN-SUFFIX,ikuai.win
 IP-CIDR,156.239.145.62/16
 
-#弹窗/广告
+#弹窗/广告/垃圾跳转
 DOMAIN-SUFFIX,lloogg.com
 DOMAIN-SUFFIX,lm-pk.com
 DOMAIN-SUFFIX,admin5.com
@@ -825,10 +878,25 @@ DOMAIN-SUFFIX,clickbank.net
 DOMAIN-SUFFIX,52896368.com
 DOMAIN-SUFFIX,xi9p.com
 DOMAIN-SUFFIX,baijiu.cf
+DOMAIN-SUFFIX,0797you.com
+DOMAIN-SUFFIX,xxxsw.net
+DOMAIN-SUFFIX,pf999.net
+DOMAIN-SUFFIX,xqiwen.com
+DOMAIN-SUFFIX,jinanguanggao.com
+DOMAIN-SUFFIX,jindian120.com
+DOMAIN-SUFFIX,xcgt.uk.com
+DOMAIN-SUFFIX,218835.com
+DOMAIN-SUFFIX,rd7799.vip
+DOMAIN-SUFFIX,nksnjj.com
+DOMAIN-SUFFIX,tbzk.cn.com
+DOMAIN-SUFFIX,shanyaoy.com
+DOMAIN-SUFFIX,huamuw588.com
+DOMAIN-SUFFIX,qnfuli.com
+DOMAIN-SUFFIX,zizf.cn
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
-DOMAIN-SUFFIX,3g.7723.cn
+DOMAIN-SUFFIX,7723.cn
 DOMAIN-SUFFIX,40407.com
 DOMAIN-SUFFIX,678cn.com
 DOMAIN-SUFFIX,973.com
@@ -865,6 +933,7 @@ DOMAIN-SUFFIX,qddown.com
 DOMAIN-SUFFIX,zhaodanji.com
 DOMAIN-SUFFIX,soyohui.com
 DOMAIN-SUFFIX,songsgames.com
+DOMAIN-SUFFIX,zdtiehua.com
 
 #伪装/蜜罐/钓鱼
 DOMAIN-SUFFIX,crx4.com
@@ -899,6 +968,7 @@ DOMAIN-SUFFIX,gpaopao.com
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,lianshijie.com
+DOMAIN-SUFFIX,5best1.com
 
 #疑似轮子网站屏蔽
 DOMAIN-SUFFIX,botanwang.com

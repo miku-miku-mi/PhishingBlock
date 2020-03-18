@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,www.gpmyrg.cn
 DOMAIN-SUFFIX,steamrcva.club
 DOMAIN-SUFFIX,steamaf.pw
 DOMAIN-SUFFIX,yupuiz.cn
+DOMAIN-SUFFIX,pubgflare.club
 
 #思杰马克丁
 DOMAIN-SUFFIX,chemdraw.com.cn
@@ -323,6 +324,7 @@ DOMAIN-SUFFIX,0557pet.cn
 DOMAIN-SUFFIX,kooppagina.com
 DOMAIN-SUFFIX,bqpu.net
 DOMAIN-SUFFIX,ispsd2015.com
+DOMAIN-SUFFIX,yiyanyiyu.cn
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -841,6 +843,15 @@ DOMAIN-SUFFIX,qianfangzy.com
 DOMAIN-SUFFIX,kukex.cn
 DOMAIN-SUFFIX,nh77.cn
 DOMAIN-SUFFIX,ikuai.win
+DOMAIN-SUFFIX,xiexialai.com
+DOMAIN-SUFFIX,zhuici.net
+DOMAIN-SUFFIX,star0215.com
+DOMAIN-SUFFIX,fyb2b.com
+DOMAIN-SUFFIX,sasadown.cn
+DOMAIN-SUFFIX,excel-jiqiao.com
+DOMAIN-SUFFIX,ruv21.cn
+DOMAIN-SUFFIX,gkpowertec.com
+DOMAIN-SUFFIX,cf-ti.com
 IP-CIDR,156.239.145.62/16
 
 #弹窗/广告/垃圾跳转
@@ -893,6 +904,7 @@ DOMAIN-SUFFIX,shanyaoy.com
 DOMAIN-SUFFIX,huamuw588.com
 DOMAIN-SUFFIX,qnfuli.com
 DOMAIN-SUFFIX,zizf.cn
+DOMAIN-SUFFIX,cnms.uk.com
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -956,7 +968,7 @@ DOMAIN-SUFFIX,s-stomat.ru
 DOMAIN-SUFFIX,lida8888.com
 DOMAIN-SUFFIX,dvfruc.ru
 DOMAIN-SUFFIX,ushiar.com
-
+DOMAIN-SUFFIX,xxnb.com
 #僵尸网络
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,dj3344.com

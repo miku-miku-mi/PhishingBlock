@@ -37,6 +37,10 @@ DOMAIN-SUFFIX,steamrcva.club
 DOMAIN-SUFFIX,steamaf.pw
 DOMAIN-SUFFIX,yupuiz.cn
 DOMAIN-SUFFIX,pubgflare.club
+DOMAIN-SUFFIX,steamwzzc.club
+DOMAIN-SUFFIX,rwhkeo.cn
+DOMAIN-SUFFIX,steamjks.pw
+DOMAIN-SUFFIX,uuuxw.fun
 
 #思杰马克丁
 DOMAIN-SUFFIX,chemdraw.com.cn
@@ -334,6 +338,11 @@ DOMAIN-SUFFIX,91qsh.com
 DOMAIN-SUFFIX,zybbangw.com
 DOMAIN-SUFFIX,totallandscapecare.com
 DOMAIN-SUFFIX,film-rezensionen.de
+DOMAIN-SUFFIX,dqzdhw.com
+DOMAIN-SUFFIX,leihao.net
+DOMAIN-SUFFIX,psylz.cn
+DOMAIN-SUFFIX,wecarehome.com.cn
+DOMAIN-SUFFIX,tongfengqu.com
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -758,7 +767,6 @@ DOMAIN-SUFFIX,zuoyepeq.com
 DOMAIN-SUFFIX,jieyongotv.com
 DOMAIN-SUFFIX,zhuanjiatouzi.com
 DOMAIN-SUFFIX,ikanchai.com
-DOMAIN-SUFFIX,wecarehome.com.cn
 DOMAIN-SUFFIX,play-and-more.com
 DOMAIN-SUFFIX,ruipinad.com
 DOMAIN-SUFFIX,propertyguideturkey.com
@@ -907,6 +915,9 @@ DOMAIN-SUFFIX,0757pr.com
 DOMAIN-SUFFIX,3w.sywenhua.com
 DOMAIN-SUFFIX,sywenhua.com
 DOMAIN-SUFFIX,wphbmey.cn
+DOMAIN-SUFFIX,34352.com
+DOMAIN-SUFFIX,szstp56.com
+DOMAIN-SUFFIX,jingyanpal.com
 IP-CIDR,156.239.145.62/16
 
 #弹窗/广告/垃圾跳转
@@ -995,6 +1006,11 @@ DOMAIN-SUFFIX,xfjy12.xyz
 DOMAIN-SUFFIX,dnsdpz792.fit
 DOMAIN-SUFFIX,dnsdpz638.fit
 DOMAIN-SUFFIX,168888580.work
+DOMAIN-SUFFIX,378983.vip
+DOMAIN-SUFFIX,feeddsp.cn
+DOMAIN-SUFFIX,buff.vip
+DOMAIN-SUFFIX,jitatang.com
+DOMAIN-SUFFIX,365456666.com
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -1063,6 +1079,7 @@ DOMAIN-SUFFIX,xxnb.com
 #僵尸网络
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,dj3344.com
+DOMAIN-SUFFIX,echodjb.com
 
 #比特币
 DOMAIN-SUFFIX,bibaodao.com

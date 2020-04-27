@@ -343,6 +343,8 @@ DOMAIN-SUFFIX,leihao.net
 DOMAIN-SUFFIX,psylz.cn
 DOMAIN-SUFFIX,wecarehome.com.cn
 DOMAIN-SUFFIX,tongfengqu.com
+DOMAIN-SUFFIX,seekplay.online
+DOMAIN-SUFFIX,bswhb.com
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -918,6 +920,7 @@ DOMAIN-SUFFIX,wphbmey.cn
 DOMAIN-SUFFIX,34352.com
 DOMAIN-SUFFIX,szstp56.com
 DOMAIN-SUFFIX,jingyanpal.com
+DOMAIN-SUFFIX,gzlftdt.com
 IP-CIDR,156.239.145.62/16
 
 #弹窗/广告/垃圾跳转

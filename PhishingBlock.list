@@ -354,6 +354,13 @@ DOMAIN-SUFFIX,sbymw.com
 DOMAIN-SUFFIX,onezuan.com
 DOMAIN-SUFFIX,cnpengo.com
 DOMAIN-SUFFIX,tulhuur.com
+DOMAIN-SUFFIX,0714yxw.com
+DOMAIN-SUFFIX,cnsxjs.com
+DOMAIN-SUFFIX,zt25j6gs.com
+DOMAIN-SUFFIX,zgshsp.com
+DOMAIN-SUFFIX,252yy.net
+DOMAIN-SUFFIX,whstm.com
+DOMAIN-SUFFIX,scyhc.cn
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -912,6 +919,7 @@ DOMAIN-SUFFIX,gzlftdt.com
 DOMAIN-SUFFIX,yysrz.com
 DOMAIN-SUFFIX,yixinhuagong.com
 DOMAIN-SUFFIX,shbingluo.com
+DOMAIN-SUFFIX,366319.vip
 DOMAIN-SUFFIX,378983.vip
 DOMAIN-SUFFIX,389128.vip
 DOMAIN-SUFFIX,396751.vip
@@ -1005,6 +1013,34 @@ DOMAIN-SUFFIX,qdcypf.com
 DOMAIN-SUFFIX,legend-fur.com
 DOMAIN-SUFFIX,680860.com
 DOMAIN-SUFFIX,cnsxjs.com
+DOMAIN,ffsag.zanggan.cn
+DOMAIN-SUFFIX,zanggan.cn
+DOMAIN,share.wukongwenda.cn
+DOMAIN-SUFFIX,wukongwenda.cn
+DOMAIN-SUFFIX,fjunion.org
+DOMAIN-SUFFIX,fjshuchi.com
+DOMAIN-SUFFIX,ebzka.com
+DOMAIN-SUFFIX,eyslp.com
+DOMAIN-SUFFIX,xarmb.com
+DOMAIN-SUFFIX,dhfvf.com
+DOMAIN-SUFFIX,uhqrl.com
+DOMAIN-SUFFIX,wand6.com
+DOMAIN-SUFFIX,looknews.cc
+DOMAIN-SUFFIX,lujuba.cc
+DOMAIN-SUFFIX,daydaynews.cc
+DOMAIN-SUFFIX,skoneyou.com
+DOMAIN-SUFFIX,epxsv.com
+DOMAIN-SUFFIX,qqph.net
+DOMAIN-SUFFIX,poluoluo.com
+DOMAIN-SUFFIX,zhuanile.com
+DOMAIN-SUFFIX,lnbdc.com
+DOMAIN-SUFFIX,njfengta.com
+DOMAIN-SUFFIX,singtao.ca
+DOMAIN-SUFFIX,c1s.com
+DOMAIN-SUFFIX,sanhaostreet.com
+DOMAIN-SUFFIX,digibusiness.at
+DOMAIN-SUFFIX,junmaokj.com
+DOMAIN-SUFFIX,politrix.net
 IP-CIDR,156.239.145.62/16
 
 #弹窗/广告/垃圾跳转
@@ -1152,6 +1188,8 @@ DOMAIN-SUFFIX,lcxyw.com
 DOMAIN-SUFFIX,bmzn.uk.com
 DOMAIN-SUFFIX,jinbudaf.com
 DOMAIN-SUFFIX,trcchina.com.cn
+DOMAIN-SUFFIX,xtjydn.xyz
+DOMAIN-SUFFIX,zhvqcj.xyz
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -1197,8 +1235,9 @@ DOMAIN-SUFFIX,chuangyiren.cn
 DOMAIN-SUFFIX,343u.com
 DOMAIN-SUFFIX,xia1ge.com
 DOMAIN-SUFFIX,laiyuan.com
+DOMAIN-SUFFIX,zaoyouxi.com
 
-#伪装/蜜罐/钓鱼
+#伪装/蜜罐/钓鱼/不信任链接
 DOMAIN-SUFFIX,crx4.com
 DOMAIN-SUFFIX,7lg.net
 DOMAIN-SUFFIX,aporadhpratidin.com
@@ -1220,6 +1259,7 @@ DOMAIN-SUFFIX,lida8888.com
 DOMAIN-SUFFIX,dvfruc.ru
 DOMAIN-SUFFIX,ushiar.com
 DOMAIN-SUFFIX,xxnb.com
+DOMAIN-SUFFIX,downos.com
 
 #僵尸网络
 DOMAIN-SUFFIX,pixnet.net

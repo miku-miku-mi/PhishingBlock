@@ -208,6 +208,8 @@ DOMAIN-SUFFIX,buscodepto.com
 DOMAIN-SUFFIX,mei521.com
 DOMAIN-SUFFIX,flyertea.com
 DOMAIN-SUFFIX,kknews.cc
+DOMAIN-KEYWORD,kknews-cc
+DOMAIN-KEYWORD,kknews
 DOMAIN-SUFFIX,583go.com
 DOMAIN-SUFFIX,ishopviet.vn
 DOMAIN-SUFFIX,321sq.com
@@ -355,16 +357,18 @@ DOMAIN-SUFFIX,onezuan.com
 DOMAIN-SUFFIX,cnpengo.com
 DOMAIN-SUFFIX,tulhuur.com
 DOMAIN-SUFFIX,0714yxw.com
-DOMAIN-SUFFIX,cnsxjs.com
 DOMAIN-SUFFIX,zt25j6gs.com
 DOMAIN-SUFFIX,zgshsp.com
 DOMAIN-SUFFIX,252yy.net
 DOMAIN-SUFFIX,whstm.com
 DOMAIN-SUFFIX,scyhc.cn
+DOMAIN-SUFFIX,verycg.com
+DOMAIN-SUFFIX,jhdwl.com
+DOMAIN-SUFFIX,vmovier.com
+DOMAIN-SUFFIX,shengenwang.com
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
-DOMAIN-SUFFIX,123.sogou.com
 #DOMAIN-SUFFIX,123cha.com
 DOMAIN-SUFFIX,160.com
 DOMAIN-SUFFIX,265.com
@@ -397,7 +401,7 @@ DOMAIN-SUFFIX,smhi.com.cn
 DOMAIN-SUFFIX,damingweb.com
 DOMAIN-SUFFIX,fsqyw.cn
 
-#伪(中文)官网
+#伪官网/假网站
 DOMAIN-SUFFIX,hkcleanmymac.com
 DOMAIN-SUFFIX,luping.net.cn
 DOMAIN-SUFFIX,mycleanmymac.com
@@ -411,6 +415,7 @@ DOMAIN-SUFFIX,gnfgx3e.site
 DOMAIN-SUFFIX,vphclcb.site
 DOMAIN-SUFFIX,picacgo.com
 DOMAIN-SUFFIX,lsbzagd.site
+DOMAIN-SUFFIX,machbbs.com
 
 #垃圾网站（SEO）/网赚诈骗/彩票博彩
 DOMAIN-SUFFIX,yitianxinda.cn
@@ -1041,9 +1046,35 @@ DOMAIN-SUFFIX,sanhaostreet.com
 DOMAIN-SUFFIX,digibusiness.at
 DOMAIN-SUFFIX,junmaokj.com
 DOMAIN-SUFFIX,politrix.net
+DOMAIN-SUFFIX,mofish.work
+DOMAIN-SUFFIX,liciwang.com
+DOMAIN-SUFFIX,52rkl.cn
+DOMAIN-SUFFIX,weituzhai.com
+DOMAIN-SUFFIX,aihei0w.com
+DOMAIN-SUFFIX,getit01.com
+DOMAIN-SUFFIX,honsnews.com
+DOMAIN-SUFFIX,ifuun.com
+DOMAIN-SUFFIX,gzsbyk.com
+DOMAIN-SUFFIX,ssasx.cn
+DOMAIN-SUFFIX,twgreatdaily.com
+DOMAIN-SUFFIX,50004.com
+DOMAIN-SUFFIX,91changsha.com
+DOMAIN-SUFFIX,39289.net
+DOMAIN-SUFFIX,skmidia.com
+DOMAIN-SUFFIX,hjlzm.com
+DOMAIN-SUFFIX,fjhgkj.com
+DOMAIN-SUFFIX,sporths.com
+DOMAIN-SUFFIX,17jita.com
+DOMAIN-SUFFIX,tuituisoft.com
+DOMAIN-SUFFIX,120mei.com
+DOMAIN-SUFFIX,yburkg.com
+DOMAIN-SUFFIX,coin163.com
+DOMAIN-SUFFIX,rivermap.cn
+DOMAIN-SUFFIX,3333aiai.com
+DOMAIN-SUFFIX,bolognaunited.it
 IP-CIDR,156.239.145.62/16
 
-#弹窗/广告/垃圾跳转
+#弹窗/广告（联盟）/垃圾跳转
 DOMAIN-SUFFIX,lloogg.com
 DOMAIN-SUFFIX,lm-pk.com
 DOMAIN-SUFFIX,admin5.com
@@ -1190,6 +1221,16 @@ DOMAIN-SUFFIX,jinbudaf.com
 DOMAIN-SUFFIX,trcchina.com.cn
 DOMAIN-SUFFIX,xtjydn.xyz
 DOMAIN-SUFFIX,zhvqcj.xyz
+DOMAIN-SUFFIX,linhd.net
+DOMAIN,media.cnjiwang.com
+DOMAIN-SUFFIX,iuue235.com
+DOMAIN-SUFFIX,xzbu.com
+DOMAIN-SUFFIX,mamicode.com
+DOMAIN-SUFFIX,yo9yo9.com
+DOMAIN-SUFFIX,hnswjg.cn
+DOMAIN-SUFFIX,channv.cn
+DOMAIN-SUFFIX,mfsdl.it
+DOMAIN-SUFFIX,keitomatrix.club
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -1200,7 +1241,6 @@ DOMAIN-SUFFIX,973.com
 DOMAIN-SUFFIX,aomeng.net
 DOMAIN-SUFFIX,bbs.colg.cn
 DOMAIN-SUFFIX,bdqczz.com
-DOMAIN-SUFFIX,ccplay.cc
 DOMAIN-SUFFIX,cheat8.com
 DOMAIN-SUFFIX,danji100.com
 DOMAIN-SUFFIX,gaoshouyou.com
@@ -1236,6 +1276,8 @@ DOMAIN-SUFFIX,343u.com
 DOMAIN-SUFFIX,xia1ge.com
 DOMAIN-SUFFIX,laiyuan.com
 DOMAIN-SUFFIX,zaoyouxi.com
+DOMAIN-SUFFIX,nongjia888.com
+DOMAIN-SUFFIX,5you.com
 
 #伪装/蜜罐/钓鱼/不信任链接
 DOMAIN-SUFFIX,crx4.com
@@ -1260,11 +1302,18 @@ DOMAIN-SUFFIX,dvfruc.ru
 DOMAIN-SUFFIX,ushiar.com
 DOMAIN-SUFFIX,xxnb.com
 DOMAIN-SUFFIX,downos.com
+DOMAIN-SUFFIX,octcoder.com
+DOMAIN-SUFFIX,qqjyo.com
+DOMAIN-SUFFIX,eggoob.com
+DOMAIN-SUFFIX,megomap.com
 
-#僵尸网络
+#僵尸网络/空网页/无响应网页
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,dj3344.com
 DOMAIN-SUFFIX,echodjb.com
+DOMAIN-SUFFIX,editornews.cn
+DOMAIN-SUFFIX,yuzhouliaoyu.com
+DOMAIN-SUFFIX,aihundan.com
 
 #比特币
 DOMAIN-SUFFIX,bibaodao.com

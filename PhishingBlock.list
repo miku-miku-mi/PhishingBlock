@@ -366,6 +366,9 @@ DOMAIN-SUFFIX,verycg.com
 DOMAIN-SUFFIX,jhdwl.com
 DOMAIN-SUFFIX,vmovier.com
 DOMAIN-SUFFIX,shengenwang.com
+DOMAIN-SUFFIX,zhujicankao.com
+DOMAIN-SUFFIX,jcl-coin.com
+DOMAIN-SUFFIX,whysw88.com
 
 #导航/毒瘤网站
 DOMAIN-SUFFIX,114.xixik.com
@@ -1072,6 +1075,18 @@ DOMAIN-SUFFIX,coin163.com
 DOMAIN-SUFFIX,rivermap.cn
 DOMAIN-SUFFIX,3333aiai.com
 DOMAIN-SUFFIX,bolognaunited.it
+DOMAIN-SUFFIX,hxdwbjp.com
+DOMAIN-SUFFIX,0512-house.com
+DOMAIN-SUFFIX,minzuqing.org
+DOMAIN-SUFFIX,zknu.com.cn
+DOMAIN-SUFFIX,kxd56.com
+DOMAIN-SUFFIX,wulizixun.com
+DOMAIN-SUFFIX,cunman.com
+DOMAIN-SUFFIX,fodizi.net
+DOMAIN-SUFFIX,infeiter.com
+DOMAIN-SUFFIX,6699345.com
+DOMAIN-SUFFIX,ui9pw2t.biz
+DOMAIN-SUFFIX,haodianwu.com
 IP-CIDR,156.239.145.62/16
 
 #弹窗/广告（联盟）/垃圾跳转
@@ -1231,6 +1246,9 @@ DOMAIN-SUFFIX,hnswjg.cn
 DOMAIN-SUFFIX,channv.cn
 DOMAIN-SUFFIX,mfsdl.it
 DOMAIN-SUFFIX,keitomatrix.club
+DOMAIN-SUFFIX,fangchezhinan.com
+DOMAIN-SUFFIX,wclyhl2018.com
+DOMAIN-SUFFIX,yxyjxc.com
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -1278,6 +1296,10 @@ DOMAIN-SUFFIX,laiyuan.com
 DOMAIN-SUFFIX,zaoyouxi.com
 DOMAIN-SUFFIX,nongjia888.com
 DOMAIN-SUFFIX,5you.com
+DOMAIN-SUFFIX,snsyx.com
+DOMAIN-SUFFIX,1y2y.com
+DOMAIN-SUFFIX,ququyou.com
+DOMAIN-SUFFIX,bizarrre.com
 
 #伪装/蜜罐/钓鱼/不信任链接
 DOMAIN-SUFFIX,crx4.com

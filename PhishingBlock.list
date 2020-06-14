@@ -1151,7 +1151,27 @@ DOMAIN-SUFFIX,115ga.com
 DOMAIN-SUFFIX,llqsc.com
 DOMAIN-SUFFIX,zdface.com
 DOMAIN-SUFFIX,hongxing1.com
+DOMAIN-SUFFIX,hengfaienterprises.com
+DOMAIN-SUFFIX,m3shoppe.cn
+DOMAIN-SUFFIX,atushi123.com
+DOMAIN-SUFFIX,zh-ebh.com
+DOMAIN-SUFFIX,humen7.com
+DOMAIN-SUFFIX,ranshao.com
+DOMAIN-SUFFIX,51yctz.com
+DOMAIN-SUFFIX,382v.com
+DOMAIN-SUFFIX,dodpimews.com
+DOMAIN-SUFFIX,bjyingyuan.com
+DOMAIN-SUFFIX,bdys.net
+DOMAIN-SUFFIX,qishiyy.net
+DOMAIN-SUFFIX,wjqiqi.com
+DOMAIN-SUFFIX,cgrose.com
+DOMAIN-SUFFIX,subhd.com
+DOMAIN-SUFFIX,subhd.la
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,wgsihx.com
 IP-CIDR,156.239.145.62/16
+IP-CIDR,107.151.64.86/18
+IP-CIDR,45.195.71.251/24
 
 #弹窗/广告（联盟）/垃圾跳转
 DOMAIN-SUFFIX,lloogg.com
@@ -1409,6 +1429,17 @@ DOMAIN-SUFFIX,m-28.xyz
 DOMAIN-SUFFIX,thekudh.com
 DOMAIN-SUFFIX,lingpa.net
 DOMAIN-SUFFIX,ycmybzcl.com
+DOMAIN-SUFFIX,iioehoc.cn
+DOMAIN-SUFFIX,sqxlbw.com
+DOMAIN-SUFFIX,szjqz.net
+DOMAIN-SUFFIX,seonaudo.cn
+DOMAIN-SUFFIX,5596j5.com
+DOMAIN-SUFFIX,5zi5.top
+DOMAIN-SUFFIX,cndaya.cn
+DOMAIN-SUFFIX,rjszec3.cn
+DOMAIN-SUFFIX,woktm.com
+IP-CIDR,45.195.197.155/23
+IP-CIDR,45.195.71.245/24
 
 #充值/游戏/外挂/加速器/应用商店
 DOMAIN-SUFFIX,158card.com
@@ -1463,6 +1494,7 @@ DOMAIN-SUFFIX,bizarrre.com
 DOMAIN-SUFFIX,56xz.com
 DOMAIN-SUFFIX,mamecn.com
 DOMAIN-SUFFIX,yzz.cn
+DOMAIN-SUFFIX,5iyywang.com
 
 #伪装/蜜罐/钓鱼/不信任链接
 DOMAIN-SUFFIX,crx4.com
@@ -1495,6 +1527,7 @@ DOMAIN-SUFFIX,hbdytx.cn
 DOMAIN-SUFFIX,beiwo100.com
 DOMAIN-SUFFIX,yfccp.org
 DOMAIN-SUFFIX,1st-silk.com
+DOMAIN-SUFFIX,meilizai.com
 
 #僵尸网络/空白网页/无响应网页
 DOMAIN-SUFFIX,pixnet.net
@@ -1511,6 +1544,7 @@ DOMAIN-SUFFIX,wbmb168.com
 DOMAIN-SUFFIX,lgbylwm.org.cn
 DOMAIN-SUFFIX,almarosari.it
 DOMAIN-SUFFIX,bvb2000.com
+DOMAIN-SUFFIX,hd-mv.com
 
 #比特币
 DOMAIN-SUFFIX,bibaodao.com
